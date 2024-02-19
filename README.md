@@ -95,7 +95,7 @@ build the image.
 Clone and navigate to the repository 
 
 ```sh
-git clone https://github.com/burhan-syed/troddit
+git clone https://github.com/Zandarck/troddit
 cd troddit
 ```
 
