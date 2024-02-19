@@ -79,11 +79,11 @@ The redirect uri should match the REDDIT_REDIRECT variable.
 
 ## Docker
 
-### To Deploy the [Docker Image](https://hub.docker.com/r/bsyed/troddit)
+### To Deploy the [Docker Image](https://hub.docker.com/r/Zandarck/troddit)
 
 ```sh
-docker pull bsyed/troddit
-docker run -d --name troddit -p 3000:3000 bsyed/troddit
+docker pull Zandarck/troddit
+docker run -d --name troddit -p 3000:3000 Zandarck/troddit
 ```
 
 ### To Build the Image Yourself
